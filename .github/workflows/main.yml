@@ -26,5 +26,5 @@ jobs:
       uses: docker/build-push-action@v6
       with:
        context: .    # path where dockerfile is- which is curent directory
-       tag: sonal04/myimagejava  # name of the image
+       tags: sonal04/myimagejava  # name of the image
        push: true 
