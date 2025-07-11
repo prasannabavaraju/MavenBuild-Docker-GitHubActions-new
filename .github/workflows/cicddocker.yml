@@ -29,6 +29,3 @@ jobs:
       context: .    # path where dockerfile is- which is curent directory
       tags: prasanna/myimagejava  # name of the image
       push: true
-
-      **
-
