@@ -1,5 +1,4 @@
 name: Build Java Application
-
 on:
   push:
 
